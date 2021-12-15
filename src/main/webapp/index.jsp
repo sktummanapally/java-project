@@ -1,11 +1,11 @@
 <html>
 <body>
-<font size="20" color="#FF4500"><p>Welcome to HCL</font></p>
-<font size="20" color="#000080"><p>futura tech park</font></p>
-<font size="20" color="#00FF7F"><p>chennai</font></p>
-<font size="20" color="#0000ff"><p>Near Raheja Block </font></p>
-<font size="20" color="#808000">Hyderabad<p></font></p>
-<font size="20" color="#808000">pin-600119<p></font></p>
+<font size="20" color="#FF4500"><p>Wlcome TO TSK Technologies Prt.Ltd..</font></p>
+<font size="20" color="#000080"><p>HYTECH CITY</font></p>
+<font size="20" color="#00FF7F"><p>CYBER TOWERS</font></p>
+<font size="20" color="#0000ff"><p>SHYAM VILLA</font></p>
+<font size="20" color="#808000">HYDERABAD<p></font></p>
+<font size="20" color="#808000">PIN-500060<p></font></p>
 
 <body>
 </html>
